@@ -1,2 +1,2 @@
-# Big_O
-Experimenting with algorithmic efficiency in Python
+### Big_O
+Experimenting with algorithmic time complexity in Python
